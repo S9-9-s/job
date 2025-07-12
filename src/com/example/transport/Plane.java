@@ -1,9 +1,9 @@
 package com.example.transport;
 
-import com.example.capability.HasScrew;
-import com.example.capability.HasWheels;
-import com.example.capability.HasWings;
-import com.example.capability.LoadAble;
+import com.example.transport.capability.HasScrew;
+import com.example.transport.capability.HasWheels;
+import com.example.transport.capability.HasWings;
+import com.example.transport.capability.LoadAble;
 
 public class Plane extends Transport implements HasWheels, HasScrew, HasWings, LoadAble {
 

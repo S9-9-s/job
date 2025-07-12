@@ -1,7 +1,7 @@
 package com.example.transport;
 
-import com.example.capability.HasScrew;
-import com.example.capability.LoadAble;
+import com.example.transport.capability.HasScrew;
+import com.example.transport.capability.LoadAble;
 
 public class Boat extends Transport implements HasScrew, LoadAble {
 

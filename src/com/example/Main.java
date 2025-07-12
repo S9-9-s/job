@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.capability.LoadAble;
+import com.example.transport.capability.LoadAble;
 import com.example.transport.Tanker;
 
 import java.util.ArrayList;

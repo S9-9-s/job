@@ -1,6 +1,6 @@
 package com.example.transport;
 
-import com.example.capability.HasWheels;
+import com.example.transport.capability.HasWheels;
 
 public class Truck extends Transport implements HasWheels {
     @Override
